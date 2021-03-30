@@ -1,0 +1,15 @@
+SELECT sgs.*, round(avg(sida.valor_consolidado),2) as AVG_consolidada
+FROM sgs
+JOIN sida
+    ON sgs.q_dt_indicador=q_dt_inscricao where sgs.q_dt_indicador >= 20201
+GROUP BY
+    q_dt_indicador,
+    SGS_21388,
+    SGS_21389,
+    SGS_21390,
+    SGS_21391,
+    SGS_21392,
+    SGS_21393,
+    SGS_21394,
+    SGS_21395
+ORDER BY q_dt_indicador
