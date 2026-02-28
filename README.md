@@ -2,7 +2,7 @@
 <h3 align="center">2º lugar nacional — Engenharia de Dados</h3>
 
 <p align="center">
-Projeto desenvolvido para o <b>Stone Data Challenge</b>, uma competição nacional de alto nível voltada à resolução de problemas reais de dados.
+Projeto desenvolvido para o <b>Stone Data Challenge</b>
 </p>
 
 <p align="center">
@@ -10,6 +10,36 @@ Projeto desenvolvido para o <b>Stone Data Challenge</b>, uma competição nacion
   <img src="https://img.shields.io/badge/Stone-Data%20Challenge-00B388?style=for-the-badge"/>
 </a>
 </p>
+
+---
+
+## Sobre o desafio
+
+O **Stone Data Challenge** é uma competição técnica nacional estruturada em três etapas:
+
+1. Teste técnico classificatório  
+2. Resolução de um case real  
+3. Apresentação final (15 minutos) para a banca  
+
+A avaliação final considera desempenho técnico, qualidade da solução e capacidade de comunicação.
+
+---
+
+## Objetivo da solução
+
+Desenvolver uma solução de engenharia de dados capaz de:
+
+- Ingerir e preparar os dados do case
+- Garantir qualidade e consistência
+- Estruturar datasets analíticos
+- Produzir informações confiáveis para tomada de decisão
+
+Princípios adotados:
+
+- Clareza arquitetural  
+- Pipeline reprodutível  
+- Decisões técnicas justificadas  
+- Robustez sob restrição de tempo  
 
 ---
 
@@ -27,7 +57,7 @@ O desafio teve grande repercussão nacional e foi divulgado pela CNN Brasil como
 
 🏆 **2º lugar nacional — trilha de Engenharia de Dados**
 
-A avaliação considerou:
+A avaliação considerou como diferenciais:
 
 - Entendimento do problema
 - Qualidade técnica da arquitetura
@@ -70,46 +100,8 @@ A avaliação considerou:
 <img src="19227708-19b7-46e8-ad05-f21cb294ed62.png" width="800"/>
 </p>
 
-**Principais destaques:**
-
-- Excelente entendimento do problema e escopo
-- Boa apresentação e clareza da solução
-- Código organizado e bem estruturado
-- Justificativa consciente de trade-offs técnicos
-- Preocupação com dados sensíveis
-- Comunicação objetiva e segura durante a defesa
-
 ---
 
-## Sobre o desafio
-
-O **Stone Data Challenge** é uma competição técnica nacional estruturada em três etapas:
-
-1. Teste técnico classificatório  
-2. Resolução de um case real  
-3. Apresentação final (15 minutos) para a banca  
-
-A avaliação final considera desempenho técnico, qualidade da solução e capacidade de comunicação.
-
----
-
-## Objetivo da solução
-
-Desenvolver uma solução de engenharia de dados capaz de:
-
-- Ingerir e preparar os dados do case
-- Garantir qualidade e consistência
-- Estruturar datasets analíticos
-- Produzir informações confiáveis para tomada de decisão
-
-Princípios adotados:
-
-- Clareza arquitetural  
-- Pipeline reprodutível  
-- Decisões técnicas justificadas  
-- Robustez sob restrição de tempo  
-
----
 
 ## Abordagem técnica (visão geral)
 
