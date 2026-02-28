@@ -49,7 +49,7 @@ Princípios adotados:
 <img src="678752e8-1efb-4d6b-9f90-28d7003c79b3.png" width="900"/>
 </p>
 
-O desafio teve grande repercussão nacional e foi divulgado pela CNN Brasil como uma das principais iniciativas de formação em dados do país, com premiação total de R$ 60 mil.
+O desafio teve grande repercussão nacional e foi divulgado pela mídia como uma das principais iniciativas de formação em dados do país, com premiação total de R$ 60 mil.
 
 ---
 
