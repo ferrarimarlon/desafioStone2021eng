@@ -48,14 +48,6 @@ A solução foi avaliada considerando:
 <img src="19227708-19b7-46e8-ad05-f21cb294ed62.png" width="800"/>
 </p>
 
-**Principais destaques:**
-
-- Excelente entendimento do problema e escopo
-- Boa apresentação e clareza da solução
-- Código organizado e bem estruturado
-- Justificativa consciente de trade-offs técnicos
-- Preocupação com dados sensíveis
-- Comunicação objetiva e segura durante a defesa
 
 ---
 
