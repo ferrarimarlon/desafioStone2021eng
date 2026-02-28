@@ -2,7 +2,7 @@
 <h3 align="center">2º lugar nacional — Engenharia de Dados</h3>
 
 <p align="center">
-Projeto desenvolvido para o <b>Stone Data Challenge</b>, uma competição nacional voltada à resolução de problemas reais de dados.
+Projeto desenvolvido para o <b>Stone Data Challenge</b>, uma competição nacional de alto nível voltada à resolução de problemas reais de dados.
 </p>
 
 <p align="center">
@@ -13,17 +13,39 @@ Projeto desenvolvido para o <b>Stone Data Challenge</b>, uma competição nacion
 
 ---
 
+## Reconhecimento público
+
+<p align="center">
+<img src="678752e8-1efb-4d6b-9f90-28d7003c79b3.png" width="900"/>
+</p>
+
+O desafio teve grande repercussão nacional e foi divulgado pela CNN Brasil como uma das principais iniciativas de formação em dados do país, com premiação total de R$ 60 mil.
+
+---
+
 ## Resultado
 
 🏆 **2º lugar nacional — trilha de Engenharia de Dados**
 
-A solução foi avaliada considerando:
+A avaliação considerou:
 
 - Entendimento do problema
 - Qualidade técnica da arquitetura
 - Estrutura e clareza do código
 - Tratamento de dados sensíveis
 - Comunicação técnica na apresentação final
+
+---
+
+## Desempenho no teste técnico
+
+<p align="center">
+<img src="2c11ef3f-ea0e-4089-b125-c0f289315dd8.png" width="800"/>
+</p>
+
+- Teste técnico: Engenharia de Dados  
+- Acertos: **17/20**  
+- Nota: **85**
 
 ---
 
@@ -48,33 +70,39 @@ A solução foi avaliada considerando:
 <img src="19227708-19b7-46e8-ad05-f21cb294ed62.png" width="800"/>
 </p>
 
+**Principais destaques:**
+
+- Excelente entendimento do problema e escopo
+- Boa apresentação e clareza da solução
+- Código organizado e bem estruturado
+- Justificativa consciente de trade-offs técnicos
+- Preocupação com dados sensíveis
+- Comunicação objetiva e segura durante a defesa
 
 ---
 
 ## Sobre o desafio
 
-O **Stone Data Challenge** é uma competição técnica nacional com foco em experiência prática em Dados.
-
-Estrutura do processo:
+O **Stone Data Challenge** é uma competição técnica nacional estruturada em três etapas:
 
 1. Teste técnico classificatório  
 2. Resolução de um case real  
 3. Apresentação final (15 minutos) para a banca  
 
-A avaliação final considera tanto a qualidade técnica da solução quanto a capacidade de comunicação e defesa das decisões.
+A avaliação final considera desempenho técnico, qualidade da solução e capacidade de comunicação.
 
 ---
 
 ## Objetivo da solução
 
-Construir uma solução de engenharia de dados capaz de:
+Desenvolver uma solução de engenharia de dados capaz de:
 
 - Ingerir e preparar os dados do case
 - Garantir qualidade e consistência
 - Estruturar datasets analíticos
 - Produzir informações confiáveis para tomada de decisão
 
-O projeto priorizou:
+Princípios adotados:
 
 - Clareza arquitetural  
 - Pipeline reprodutível  
@@ -91,8 +119,6 @@ O projeto priorizou:
 - Tratamento de dados sensíveis
 - Documentação técnica
 - Storytelling executivo da solução
-
-*(Ajuste esta seção conforme os artefatos específicos do repositório.)*
 
 ---
 
