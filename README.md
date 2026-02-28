@@ -13,7 +13,7 @@ Projeto desenvolvido para o <b>Stone Data Challenge</b>, uma competição nacion
 
 ---
 
-## Reconhecimento público
+## Repercurssão pública
 
 <p align="center">
 <img src="678752e8-1efb-4d6b-9f90-28d7003c79b3.png" width="900"/>
